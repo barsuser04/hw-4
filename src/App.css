@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  justify-content: center;
+  background-color: #3f3f3f;
+}
+
+.items {
+  text-align: center;
+  width: 60%;
+  background-color: #3f3f3f;
+  margin-top: 2rem;
+}
